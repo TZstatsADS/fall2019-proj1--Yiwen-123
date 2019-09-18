@@ -4,15 +4,15 @@
 
 <img src="figs/title1.jpeg" width="500">
 
-### [Project Description](doc/)
+### [Project Description](doc/Proj1_desc.md)
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
 Term: Fall 2019
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Mt data story
++ This project is conducted by [Yiwen Ma]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: This project aims at comparing the lyrics among different genres from several aspects. Firstly, the number of words in each song is counted and ranked. Then, wordcloud is applied to view the most frequent word used in the whole data set and each genre indipendently. Thirdly, TFIDF is applied to find the important words in each genre. Finally, sentiment analysis is processed to detect the emotion of each genre using nrc emotion lexicon .
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
