@@ -1,5 +1,5 @@
 ---
-title: "Project1 My data story"
+title: "Difference among Genres"
 author: "Yiwen Ma"
 date: "9/16/2019"
 output: html_document
@@ -48,9 +48,7 @@ library(textdata)
 
 ```{r load data, warning=FALSE, message=FALSE}
 # load lyrics data
-processed_data <- load('~/Desktop/STAT5243/STAT5243-Proj1/output/processed_lyrics.RData') 
-# load artist information
-dt_artist <- read.csv('~/Desktop/STAT5243/STAT5243-Proj1/data/artists.csv', header = T) 
+processed_data <- load('~/Desktop/STAT5243/fall2019-proj1--Yiwen-123/output/processed_lyrics.RData') 
 ```
 
 ```{r}
